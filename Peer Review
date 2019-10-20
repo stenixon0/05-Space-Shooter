@@ -1,0 +1,38 @@
+Name: Nathan Gratzer
+Date: 10/19/19
+Project: Space Shooter
+Peer's repository: https://github.com/stenixon0/05-Space-Shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+
+I learned that you can hit a point where the speed of something literally causes it to teleport from spot to spot. 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+I honestly would like to add the speed up on death thing. 
+
+What suggestions would you have for your peer to improve his/her code?
+
+I think adding a speed cap would be a good thing to add because if it goes too fast, it makes way too easy as the shots are always fired in the same spot. Also, nitpicky, but the bullets for the enemies should be flipped upside down. Maybe even changing the controls as the current controls are kind of clunky in my opinion. And furthermore, the program exit does not work.
+
+What could have been clearer or better commented?
+
+I think a health meter or a hit sound would have been nice because I genuinely could not tell if I was getting hit or not. 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+Nothing in the code stood out to me as confusing actually.
+
+Does the repository contain an appropriate LICENSE?
+
+Yes.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+I believe a simple explanation to how much health you have would be nice. 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+I do genuinely like the ideas here and believe I may have to take some to use for myself with our next project.
